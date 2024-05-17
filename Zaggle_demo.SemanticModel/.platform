@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Zaggle_demo"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5a8a915a-c3a4-44bf-b909-e9661831f46a"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Zaggle_demo"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e9dda396-1500-4a2a-8ff3-70f031a3ed5b"
+  }
+}
